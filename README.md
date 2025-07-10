@@ -41,23 +41,21 @@ A basic neural network with:
 
 ## 📌 Features
 
-- ✅ Clean and simple digit classification pipeline  
-- ⚡ Fast training (small model & dataset)  
-- 🖼️ Real image prediction using OpenCV  
-- 💾 Model saving and reuse with `.h5` format
+- Clean and simple digit classification pipeline  
+- Fast training (small model & dataset)  
+- Real image prediction using OpenCV  
+- Model saving and reuse with `.h5` format
 
 ---
 
 ## ❌ Limitations
 
-- 🔸 Basic model — not state-of-the-art accuracy  
-- 🔸 Only supports grayscale `.png` images for predictions  
-- 🔸 No error handling for badly formatted or sized images  
-- 🔸 No GUI or web interface — CLI-based usage only
+- Basic model — not state-of-the-art accuracy  
+- Only supports grayscale `.png` images for predictions  
+- No error handling for badly formatted or sized images  
+
 
 ---
 
-## 📁 Directory Structure (Optional)
 
-You can also include a simple directory structure like:
 
